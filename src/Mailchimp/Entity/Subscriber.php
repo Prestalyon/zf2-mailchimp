@@ -26,6 +26,7 @@ class Subscriber
     protected $notes;
     protected $isGmonkey;
     protected $staticSegments;
+    protected $timestamp;
     protected $timestampOpt;
     protected $timestampSignup;
     protected $infoChange;
